@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhang Yunjun"
 title_separator          : "-"
 name                     : &name "Zhang Yunjun"
-description              : &description "Postdoctoral Scholar at Caltech"
+description              : &description "Assoc. Prof. at Chinese Acad. Sci."
 url                      : "https://yunjunz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yunjunz.github.io"
@@ -82,16 +82,16 @@ analytics:
 author:
   name             : "Zhang Yunjun"
   avatar           : "profile.jpeg"
-  bio              : "Postdoctoral Scholar at Caltech in Geodesy and Geophysics"
-  location         : "Los Angeles, California"
+  bio              : ""
+  location         : "Beijing, China"
   employer         :
-  department       : "Seismological Laboratory"
-  school           : "Division of Geological and Planetary Sciences"
-  university       : "California Institute of Technology"
-  country          : "United States"
+  #department      :
+  school           : "Aerospace Information Research Institute"
+  university       : "Chinese Academy of Sciences"
+  country          : "China"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nF2ghioAAAAJ"
-  email            : "yunjunz@outlook.com"
+  email            : "yunjunz@aircas.ac.cn"
   researchgate     : #"https://www.researchgate.net/profile/Zhang-Yunjun"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yunjunz"
+  linkedin         : #"yunjunz"
   orcid            : "http://orcid.org/0000-0001-9441-7082"
   pinterest        :
   soundcloud       :
