@@ -1,11 +1,10 @@
 ---
+layout: archive
 permalink: /contact/
 title: "Contact"
 excerpt: "Contact"
 author_profile: true
 ---
-
-<br/>
 
 Zhang Yunjun      
 Associate Professor      

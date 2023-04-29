@@ -1,11 +1,10 @@
 ---
+layout: archive
 permalink: /publications/
-title: ""
+title: "Publications"
 excerpt: "Publications"
 author_profile: false
 ---
-
-# Peer-Reviewed Publications
 
 ### ------ 2023 ------
 
