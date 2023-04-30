@@ -11,7 +11,7 @@ Associate Professor
 Aerospace Information Research Institute       
 Chinese Academy of Sciences       
 
-**Office:** 253 Microwave Building        
+**Office:** Microwave Building, Rm 253         
 **Phone:** +86 (010) 5888 7288     
 **Email:** yunjunz@aircas.ac.cn      
 
