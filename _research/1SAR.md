@@ -32,7 +32,7 @@ The estimated InSAR time-series can be potentially biased by wrong integer numbe
 <img width='600' src='/images/unw_error_closure.jpg'>
 
 
-## Small Baseline InSAR Time Series Analysis with MintPy
+## InSAR Time Series Analysis
 
 We present a review of small baseline interferometric synthetic aperture radar (InSAR) time series analysis with a new processing workflow and software implemented in Python, named MintPy. The basic idea is to apply the phase corrections in the time series domain (as shown below), instead of the traditional interferogram domain, to leverage the small orbital tubes and regular sampling of modern SAR satellites, for more efficient computing, in addition to a few more features. Check more details in [Yunjun et al. (2019)](https://yunjunz.github.io/files/Yunjun_etal-2019-mintpy.pdf). 
 
