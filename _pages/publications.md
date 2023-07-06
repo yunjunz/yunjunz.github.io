@@ -8,7 +8,9 @@ author_profile: false
 
 ### ------ 2023 ------
 
-[_Under review_] Xu, L., Mohanna, S., Meng, L., Ji C, Ampuero, J.P., **Yunjun, Z.,** Hasnain, M., Chu, R. The 2023 Mw7.8 Kahramanmaraş, Turkey Earthquake: A Multi-segment Rupture in A Millennium Supercycle. [ [preprint](https://doi.org/10.21203/rs.3.rs-2747911/v1) ]
+[_Under review_] Yang, Q., **Yunjun, Z.,** Wang, R. Y. Heterogeneous InSAR Tropospheric Delay Correction Based on Texture Correlation.
+
+[_Under review_] Xu, L., Mohanna, S., Meng, L., Ji C, Ampuero, J.P., **Yunjun, Z.,** Hasnain, M., Chu, R., Liang, C. The 2023 Mw7.8 Kahramanmaraş, Turkey Earthquake: A Multi-segment Rupture in Millennia Supercycle. [ [preprint](https://doi.org/10.21203/rs.3.rs-2747911/v1) ]
 
 14\. Xu, L., **Yunjun, Z.,** Ji, C., Meng, L., Fielding, E. J., Zinke, R., Bao, H. (2023). Understanding the Rupture Kinematics and Slip Model of the 2021 Mw 7.4 Maduo Earthquake: A Bilateral Event on Bifurcating Faults, _Journal of Geophysical Research: Solid Earth, 128_(4), e2022JB025936. [ [doi](https://doi.org/10.1029/2022JB025936) \| [pdf](https://yunjunz.github.io/files/Xu-2023-MaduoEQ.pdf) \| [sup](https://yunjunz.github.io/files/Xu-2023-MaduoEQ-supp.pdf) \| data [a](https://doi.org/10.5281/zenodo.7170329), [b](https://doi.org/10.5281/zenodo.7761908) \| [notebook](https://github.com/yunjunz/2021-Maduo-EQ) ]
 

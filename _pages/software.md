@@ -30,7 +30,7 @@ A package for multi-temporal SAR coregistration [in early development]. [ [GitHu
 
 I also contribute to the following community softwares:
 
-+ s1-reader: Sentinel-1 reader to create [ISCE3](https://github.com/isce-framework/isce3)-compatible burst class [ [GitHub](https://github.com/opera-adt/s1-reader) ]
++ s1-reader: Sentinel-1 reader to create [ISCE3](https://github.com/isce-framework/isce3)-compatible burst class [ [GitHub](https://github.com/isce-framework/s1-reader) ]
 + PyAPS: Python-based Atmospheric Phase Screen [ [GitHub](https://github.com/insarlab/PyAPS) ]
 + ISCE-2: InSAR Scientific Computing Environment version 2 [ [GitHub](https://github.com/isce-framework/isce2) ]
 + FRInGE: Fine Resolution InSAR with Generalized Eigenvectors [ [GitHub](https://github.com/isce-framework/fringe) ]
