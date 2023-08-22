@@ -92,7 +92,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nF2ghioAAAAJ"
   email            : "yunjunz@aircas.ac.cn"
-  researchgate     : #"https://www.researchgate.net/profile/Zhang-Yunjun"
+  researchgate     : "https://www.researchgate.net/profile/Zhang-Yunjun"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"yunjunz"
+  linkedin         : "yunjunz"
   orcid            : "http://orcid.org/0000-0001-9441-7082"
   pinterest        :
   soundcloud       :
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
