@@ -16,4 +16,3 @@ I am an Associate Professor of Electrical Engineering and Geophysics at the Aero
 + Active volcanoes and earthquakes
 + Infrastructure and landslides monitoring
 
-### Curriculum Vitae: [PDF](https://yunjunz.github.io/files/CV_Yunjun.pdf) ###
