@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "AIRCAS Radar Science Group"
+excerpt: "about"
 author_profile: true
 redirect_from:
   - /about/
@@ -10,9 +10,11 @@ redirect_from:
   - /home.html
 ---
 
-I am an Associate Professor of Electrical Engineering and Geophysics at the Aerospace Information Research Institute, Chinese Academy of Sciences (CAS) in Beijing, China. I am broadly interested in developing geodetic techniques to precisely measure the surface deformation and change, and to understand these surface responses caused by tectonic, volcanic and anthropogenic processes on Earth and other planets. My research interests include:
+Welcome to the Radar Science Group at the Aerospace Information Research Institute, Chinese Academy of Sciences (AIRCAS). We are part of the National Key Laboratory of Microwave Imaging Technology. Our research covers the broad area of radar science, from geodetic technique development such as radar interferometry (InSAR) to its applications on geological hazards, from tectonic and volcanic processes such as earthquakes and volcanic eruptions to human-related phenomena such as land subsidence and infrastructure monitoring. Our recent topic of interest includes:
 
-+ Space geodesy, particularly algorithm and tools for SAR and interferometric SAR
++ Algorithm and tools for synthetic aperture radar (SAR) and InSAR
 + Active volcanoes and earthquakes
 + Infrastructure and landslides monitoring
+
+We are looking for self-motivated master students to join our research group. Please contact me if interested.
 
