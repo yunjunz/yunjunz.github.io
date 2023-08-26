@@ -10,7 +10,7 @@ author_profile: false
 
 ### ------ 2023 ------
 
-**Yang, Q.\***, **Yunjun, Z.**, Lu, P., Wang, R. (2023). Poster: InSAR Tropospheric Delay Correction for Wide-area Deformation Identification and Monitoring, _IGARSS 2023_, 16-21 Jul 2023, Pasadena, CA, USA.
+**Yang, Q.\***, **Yunjun, Z.**, Cai, Y., Lu, P., Wang, R. (2023). Poster: InSAR Tropospheric Delay Correction for Wide-area Deformation Identification and Monitoring, _IGARSS 2023_, 16-21 Jul 2023, Pasadena, CA, USA.
 
 Zhang, B., Hestir, E., **Yunjun, Z.**, Reiter, M., Viers, J., Schaffer-Smith, D., Sesser, K. (2023). Poster: Multi-temporal Analysis of InSAR Coherence, In-situ Water Depths, and NDVI for Managed Wetlands in Sacramento National Wildfire Refuge, California (2879), _IGARSS 2023_, 16-21 Jul 2023, Pasadena, CA, USA.
 
