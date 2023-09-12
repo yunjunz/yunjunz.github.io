@@ -90,7 +90,7 @@ author:
   university       : "Chinese Academy of Sciences"
   country          : "China"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=nF2ghioAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=nF2ghioAAAAJ"
   email            : "yunjunz@aircas.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Zhang-Yunjun"
   uri              :
@@ -100,14 +100,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yunjunz"
+  github           : "radar-science"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yunjunz"
-  orcid            : "http://orcid.org/0000-0001-9441-7082"
+  linkedin         : #"yunjunz"
+  orcid            : #"http://orcid.org/0000-0001-9441-7082"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
