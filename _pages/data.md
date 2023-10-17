@@ -8,7 +8,7 @@ author_profile: false
 
 ## 2023 Kahramanmaraş earthquakes: Co-seismic deformation from Sentinel-1, LuTan-1 and ALOS-2 [ [Zenodo](https://doi.org/10.5281/zenodo.7877812) ]
 
-Three dimensional co-seismic surface deformation of the 6 Feburary 2023 [M7.8](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive) and [M7.5](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlqa/executive) earthquake sequence across the Kahramanmaraş region near Nurdağı, Turkey. These displacement products are derived from Sentinel-1, LuTan-1 and ALOS-2 SAR images, using a combination of InSAR, multiple aperture interferometry (MAI) and speckle tracking. Check Xu et al. (2023, CEE) for more details.
+Three dimensional co-seismic surface deformation of the 6 Feburary 2023 [M7.8](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive) and [M7.5](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlqa/executive) earthquake sequence across the Kahramanmaraş region near Nurdağı, Turkey. These displacement products are derived from Sentinel-1, LuTan-1 and ALOS-2 SAR images, using a combination of InSAR, multiple aperture interferometry (MAI) and speckle tracking. Check [Xu et al. (2023, CEE)](https://yunjunz.github.io/files/Xu-2023-TurkeyEQ.pdf) for more details.
 
 <img width='650' src='/images/2023TurkeyEQ_defoHz.jpg'>
 
