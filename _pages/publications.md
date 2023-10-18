@@ -51,7 +51,7 @@ author_profile: false
 
 3\. Xie, C., Xu, J., Shao, Y., Cui, B., Goel, K., **Yunjun, Z.** & Yuan, M. (2015). Long term detection of water depth changes of coastal wetlands in the Yellow River Delta based on distributed scatterer interferometry, _Remote Sensing of Environment, 164_(0), 238-253. [ [doi](https://doi.org/10.1016/j.rse.2015.04.010) \| [pdf](https://yunjunz.github.io/files/Xie-2015-YRD.pdf) ]
 
-2\. **Yunjun, Z.**, Wan, Z., Xie, C., Shao, Y., Yuan, M. H., Chen, W., & Wang, X. (2015). Deformation analysis of the seawall in Qiantang Estuary with multi-temporal InSAR. _Journal of Remote Sensing, 19_(2):339-354. [ [doi](https://doi.org/10.11834/jrs.20154055) \| [pdf](https://yunjunz.github.io/files/Yunjun-2015-seawall.pdf) ]
+2\. **Yunjun, Z.**, Wan, Z., Xie, C., Shao, Y., Yuan, M. H., Chen, W., & Wang, X. (2015). Deformation analysis of the seawall in Qiantang Estuary with multi-temporal InSAR. _Journal of Remote Sensing, 19_(2), 339-354. [ [doi](https://doi.org/10.11834/jrs.20154055) \| [pdf](https://yunjunz.github.io/files/Yunjun-2015-seawall.pdf) ]
 
 ### ------ 2013 ------
 
