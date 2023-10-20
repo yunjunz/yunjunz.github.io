@@ -8,8 +8,7 @@ author_profile: false
 
 (Group members are bolded; * represents graduate students)
 
-[_Under review_] **Yang, Q.\***, **Yunjun, Z.**, Wang, R. Y. Heterogeneous InSAR Tropospheric Delay Correction Based on Texture Correlation.
-
+[_Under review_] **Yang, Q.\***, **Yunjun, Z.**, Wang, R. Y. Heterogeneous InSAR Tropospheric Delay Correction Based on Texture Correlation, _IEEE Transactions on Geoscience and Remote Sensing_.
 
 ### ------ 2023 ------
 
