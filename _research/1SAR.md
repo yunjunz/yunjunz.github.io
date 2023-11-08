@@ -38,5 +38,5 @@ We present a review of small baseline interferometric synthetic aperture radar (
 
 <img width='800' src='/images/phase_correction.jpg'>
 
-+ The code is open-sourced and freely available on GitHub at [https://github.com/insarlab/MintPy](https://github.com/insarlab/MintPy) with documentation, tutorials in Jupyter Notebooks and test data. The software has been widely used in the science community, including the [UNAVCO InSAR short course](https://www.unavco.org/event/2021-short-course-insar-processing-analysis-isce/) since 2019.
++ The code is open-sourced and freely available on GitHub at [https://github.com/insarlab/MintPy](https://github.com/insarlab/MintPy) with documentation, tutorials in Jupyter Notebooks and test data. The software has been widely used in the science community, including the [UNAVCO/EarthScope InSAR short course](https://www.earthscope.org/event/2023-insar-isce-short-course/) since 2019.
 
