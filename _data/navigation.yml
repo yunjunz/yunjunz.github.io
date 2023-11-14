@@ -18,5 +18,8 @@ main:
   - title: "Data"
     url: /data/
 
+  - title: "中文"
+    url: https://people.ucas.edu.cn/~yunjunz
+
 #  - title: "Contact"
 #    url: /contact/
