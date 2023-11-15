@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 Zhang Yunjun      
-Associate Professor      
+Professor      
 Aerospace Information Research Institute       
 Chinese Academy of Sciences       
 

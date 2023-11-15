@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "AIRCAS Radar Science"
 title_separator          : "-"
 name                     : &name "Zhang Yunjun"
-description              : &description "Assoc. Prof. at Chinese Acad. Sci."
+description              : &description "Professor at Chinese Academy of Sciences"
 url                      : "https://yunjunz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yunjunz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhang Yunjun 张云俊"
   avatar           : "profile.jpeg"
-  bio              : "Associate Professor at Chinese Academy of Sciences"
+  bio              : "Professor at Chinese Academy of Sciences"
   location         : "Beijing"
   employer         :
   department       : "National Key Lab of Microwave Imaging Technology"
